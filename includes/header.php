@@ -4,7 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
   <title>Melodia Cuiabá | Escola de Música</title>
+  <meta name="description" content="Escola de Música, em Cuiabá - MT | Teclado, Violão, Técnica Vocal, Ukulele e Bateria | Ensinando Música desde 2018 | Aulas de Música a partir de 7 anos.">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="googlebot" content="noindex,nofollow">
+
   <link rel="shortcut icon" href="assets/img/logo3.png" />
   <link rel="stylesheet" href="assets/css/style.css">
   <link rel="stylesheet" href="https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css" />
