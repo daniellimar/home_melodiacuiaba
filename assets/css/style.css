@@ -1,0 +1,54 @@
+body {
+  background: #007bff;
+  background: linear-gradient(to right, #0062E6, #33AEFF);
+}
+nav {
+  position: fixed;
+  width: 100%;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+#page-content {
+  flex: 1 0 auto;
+}
+
+.font-normal {
+  font-size: 1em;
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .container {
+    margin-top: 30px;
+  }
+  .logo img {
+    width: 90%
+  }
+}
+
+.social a {
+  text-decoration: none;
+}
+.logo {
+  display: grid;
+  place-items: center;
+}
+.logo img {
+  max-width: 300px;
+}
